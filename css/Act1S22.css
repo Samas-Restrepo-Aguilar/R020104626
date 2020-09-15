@@ -6,8 +6,10 @@ body {
 	background-color: cyan;
 }
 header {
+	height: 40px;
 	text-align: center;
 	font-style: italic;
+	background-color: #25C700;
 }
 section {
 	margin-top: 10px;
@@ -19,6 +21,8 @@ p {
 	border-color: red;
 	background-color: white;
 	border-radius: 3px;
+	margin-right: 3px;
+	width: 30px;
 }
 .boton:hover{
 	background-color: blue;
