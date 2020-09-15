@@ -15,7 +15,16 @@ section {
 p {
 	font-family: cursive;
 }
+.boton{
+	border-color: red;
+	background-color: white;
+	border-radius: 3px;
+}
+.boton:hover{
+	background-color: blue;
+}
 #img1 {
 	display: block;
 	margin: auto;
+	margin-top: 8px;
 }
